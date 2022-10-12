@@ -51,7 +51,7 @@ var PROP = {
     DEV_BASEURL: 'http://81.68.227.244:8080/MyIona/',
     // DEV_BASEURL: 'http://192.168.0.109:8080/MyIona/',
     //生产环境
-    PROD_BASEURL: 'http://47.111.146.215:8080/MyIona/',
+    PROD_BASEURL: 'http://81.68.227.244:8080/MyIona/',
     // WebSocket常量
     WEBSOCKETPATH: '/sockJsEndPoint',
     PRODUCERPATH: '/topic/getResponse',
