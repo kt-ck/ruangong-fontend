@@ -171,7 +171,6 @@ export default {
   },
   methods: {
     gotoAct(activityId){
-        console.log(activityId)
         this.$router.push({
             name : "activity",
             params:{
